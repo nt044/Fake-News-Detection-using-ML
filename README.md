@@ -1,6 +1,6 @@
 # Fake-News-Detection-using-ML
 ## 📌ML Algorithms implemented
-- Logistic Regression
+- Naive Bayes
 - Support Vector Machine
 - Decision Tree
-- Random Forest
+
